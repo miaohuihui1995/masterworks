@@ -1,0 +1,11 @@
+Initial state	|vac>|001>
+Stable states	|vac>|-100>	|vac>|0-10>
+
+Initial state	|vac>|002>
+Stable states	|vac>|200>	|vac>|-1-10>	|vac>(|1-10>-|-110>)	|vac>|020>
+
+Initial state	|vac>|102>
+Stable states	|vac>|2-10>	|vac>|-120>	|vac>|-1-1-1>
+
+Initial state	|vac>|012>
+Stable states	|vac>|2-10>	|vac>|-120>	|vac>|-1-1-1>
